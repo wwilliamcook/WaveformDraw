@@ -36,3 +36,6 @@
 !/WaveformDraw.sln
 !/WaveformDraw.vcxproj
 /Dependencies/*
+/Debug/*
+/Release/*
+/x64/*
