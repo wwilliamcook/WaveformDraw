@@ -4,7 +4,7 @@ Tool for experimenting with the shape/sound of waveforms.
 
 ## Getting Started
 
-A (sometimes) working development build for Windows x64 is available in the releases.
+A (sometimes) working development build for Windows x64 is available in the [releases](https://github.com/wwilliamcook/WaveformDraw/releases/tag/v0.1.0).
 
 ## Requirements
 
