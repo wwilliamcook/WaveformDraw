@@ -164,7 +164,7 @@ public:
 /*
  * struct: paData
  */
-typedef struct {
+typedef struct paData {
     Wavetable* wavetable;
     float frequency;
     float step_size;  // frequency / SAMPLE_RATE * TABLE_SIZE
